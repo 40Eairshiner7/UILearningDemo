@@ -1,0 +1,7 @@
+use_frameworks!
+
+target ‘DetailsDemo’ do
+
+pod 'SnapKit'
+
+end
